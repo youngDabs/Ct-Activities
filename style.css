@@ -3,7 +3,8 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 .main{
-    background-color: burlywood;
+    background-image: url(Peaky.jpg);
+    background-size: cover;
     height: 100%;
 
 
@@ -51,5 +52,5 @@ img{
     position: relative;
     left: 200;
     top: 140;
-    
+
 }
